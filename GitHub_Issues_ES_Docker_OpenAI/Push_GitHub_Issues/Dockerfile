@@ -1,0 +1,1 @@
+FROM vishalgawade666/elasticsearch_priya:latest
