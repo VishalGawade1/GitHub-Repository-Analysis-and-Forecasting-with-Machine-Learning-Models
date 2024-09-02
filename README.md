@@ -123,6 +123,10 @@ Each forecasting model has its own subdirectory under `src/Forecasting`. Follow 
 
 3. Deploy the applications on Google Cloud using Kubernetes or Cloud Run. Follow the respective Google Cloud documentation for detailed steps.
 
+## Design Diagram
+
+![This diagram explains how the application workflow](https://github.com/shlokc9/Analyse-And-Forecast-GitHub-Repositories/blob/main/Design%20Diagram.png?raw=true)
+
 ## Final Report
 
 The final report provides a comparative analysis of the forecasting models (TF/Keras/LSTM, Prophet, StatsModel). The recommendation for the best time-series forecasting model is based on the experimental results obtained.
@@ -131,5 +135,5 @@ The final report provides a comparative analysis of the forecasting models (TF/K
 
 For any questions or feedback, please contact:
 - Vishal Gawade: [vishalgawade311@gmail.com](mailto:vishalgawade311@gmail.com)
-- Shlok Chaudhari [shlokchaudhari9@gmail.com](mailto:shlokchaudhari9@gmail.com)
+- Shlok Chaudhari: [shlokchaudhari9@gmail.com](mailto:shlokchaudhari9@gmail.com)
 
