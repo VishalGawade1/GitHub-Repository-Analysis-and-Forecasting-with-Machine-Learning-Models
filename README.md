@@ -136,4 +136,4 @@ The final report provides a comparative analysis of the forecasting models (TF/K
 For any questions or feedback, please contact:
 - Vishal Gawade: [vishalgawade311@gmail.com](mailto:vishalgawade311@gmail.com)
 - Shlok Chaudhari: [shlokchaudhari9@gmail.com](mailto:shlokchaudhari9@gmail.com)
-
+- Mihira Gudimetla: [gudimetlamihira@gmail.com](mailto:gudimetlamihira@gmail.com)
